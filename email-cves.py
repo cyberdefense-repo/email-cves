@@ -197,7 +197,7 @@ elif df.empty == False:
         AWS_REGION = "us-east-1"
             # Replace sender@example.com with your "From" address.
             # This address must be verified with Amazon SES.
-        SENDER = "SMX Threat Analytics Team (STAT) <smxthreat@smartronix.com>"
+        SENDER = "Information Security Threat Team <infosec@gmail.com>"
 
             # The subject line for the email.
         SUBJECT = "New CVE's Threat Intelligence Email - National Vulnerability Database (NVD)"
